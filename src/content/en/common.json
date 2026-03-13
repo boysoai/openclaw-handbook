@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "siteName": "OpenClaw Handbook",
+    "siteDescription": "Complete guide and skills marketplace for OpenClaw"
+  },
+  "nav": {
+    "docs": "Documentation",
+    "skills": "Skills",
+    "community": "Community",
+    "search": "Search...",
+    "login": "Sign In"
+  },
+  "footer": {
+    "copyright": "© 2026 OpenClaw Community",
+    "tagline": "Built with love by the community"
+  }
+}
