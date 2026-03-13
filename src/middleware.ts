@@ -34,7 +34,7 @@ export function middleware(request: NextRequest) {
   }
 }
 
-function detectLocale(request: NextRequest): string {
+export function detectLocale(request: NextRequest): string {
   const localeCookie = request.cookies.get('NEXT_LOCALE')
   if (localeCookie && locales.includes(localeCookie.value as any)) {
     return localeCookie.value
