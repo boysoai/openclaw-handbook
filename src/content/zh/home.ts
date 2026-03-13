@@ -1,0 +1,30 @@
+export const zh = {
+  hero: {
+    badge: "社区版",
+    title: "OpenClaw",
+    titleHighlight: "手册",
+    description: "从安装到精通，构建你的 AI 助手。官方文档、技能市场、社区交流，一站搞定。",
+    primaryCta: "开始阅读",
+    secondaryCta: "浏览技能"
+  },
+  features: {
+    docs: {
+      title: "完整文档",
+      description: "从安装到高级用法的详尽指南。5 分钟快速上手。"
+    },
+    skills: {
+      title: "技能市场",
+      description: "发现社区创作的技能。自动同步 ClawHub 官方技能。"
+    },
+    community: {
+      title: "活跃社区",
+      description: "与其他开发者交流经验，分享你的技能创作。"
+    }
+  },
+  stats: {
+    docs: "50+",
+    skills: "200+",
+    users: "1千+",
+    sync: "24小时"
+  }
+}
